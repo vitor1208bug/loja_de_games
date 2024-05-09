@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.navbar{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+
+.navbar-toggler{
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
